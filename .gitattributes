@@ -1,6 +1,0 @@
-/.* export-ignore
-composer.* export-ignore
-CONTRIBUTING.md export-ignore
-phpcs.* export-ignore
-phpunit.* export-ignore
-tests export-ignore
